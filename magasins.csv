@@ -1,0 +1,11 @@
+magasin_id,ville,region,type_point_vente,milieu,date_ouverture
+M01,Dakar Plateau,Dakar,supermarché,urbain,2016-01-01
+M02,Parcelles Assainies,Dakar,supérette,urbain,2016-01-01
+M03,Pikine,Dakar,marché,urbain,2016-01-01
+M04,Thiès,Thiès,supérette,urbain,2016-01-01
+M05,Touba,Diourbel,marché,urbain,2016-01-01
+M06,Tivaouane,Thiès,boutique,semi-urbain,2017-01-01
+M07,Kaolack,Kaolack,marché,urbain,2016-01-01
+M08,Saint-Louis,Saint-Louis,supérette,urbain,2016-01-01
+M09,Ziguinchor,Ziguinchor,supérette,urbain,2016-01-01
+M10,Mbour,Thiès,boutique,semi-urbain,2018-03-01

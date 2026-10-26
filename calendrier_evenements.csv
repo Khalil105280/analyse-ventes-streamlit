@@ -1,0 +1,104 @@
+evenement_id,evenement,type,date_debut,date_fin,annee,lieu_principal
+EV001,Tamkharit,musulman,2015-10-24,2015-10-24,2015,national
+EV002,Magal de Touba,confrérique,2015-12-01,2015-12-01,2015,Touba
+EV003,Maouloud,musulman,2015-12-24,2015-12-24,2015,"Tivaouane, Kaolack (Médina Baye)"
+EV004,Noël,chrétien,2015-12-25,2015-12-25,2015,national
+EV005,Pâques,chrétien,2016-03-27,2016-03-27,2016,national
+EV006,Pèlerinage de Popenguine,chrétien,2016-05-16,2016-05-16,2016,Popenguine (près de Mbour)
+EV007,Ramadan,musulman,2016-06-07,2016-07-06,2016,national
+EV008,Korité,musulman,2016-07-07,2016-07-07,2016,national
+EV009,Tabaski,musulman,2016-09-12,2016-09-12,2016,national
+EV010,Tamkharit,musulman,2016-10-12,2016-10-12,2016,national
+EV011,Magal de Touba,confrérique,2016-11-19,2016-11-19,2016,Touba
+EV012,Maouloud,musulman,2016-12-12,2016-12-12,2016,"Tivaouane, Kaolack (Médina Baye)"
+EV013,Noël,chrétien,2016-12-25,2016-12-25,2016,national
+EV014,Pâques,chrétien,2017-04-16,2017-04-16,2017,national
+EV015,Ramadan,musulman,2017-05-28,2017-06-25,2017,national
+EV016,Pèlerinage de Popenguine,chrétien,2017-06-05,2017-06-05,2017,Popenguine (près de Mbour)
+EV017,Korité,musulman,2017-06-26,2017-06-26,2017,national
+EV018,Tabaski,musulman,2017-09-02,2017-09-02,2017,national
+EV019,Tamkharit,musulman,2017-10-01,2017-10-01,2017,national
+EV020,Magal de Touba,confrérique,2017-11-08,2017-11-08,2017,Touba
+EV021,Maouloud,musulman,2017-12-01,2017-12-01,2017,"Tivaouane, Kaolack (Médina Baye)"
+EV022,Noël,chrétien,2017-12-25,2017-12-25,2017,national
+EV023,Pâques,chrétien,2018-04-01,2018-04-01,2018,national
+EV024,Ramadan,musulman,2018-05-17,2018-06-15,2018,national
+EV025,Pèlerinage de Popenguine,chrétien,2018-05-21,2018-05-21,2018,Popenguine (près de Mbour)
+EV026,Korité,musulman,2018-06-16,2018-06-16,2018,national
+EV027,Tabaski,musulman,2018-08-22,2018-08-22,2018,national
+EV028,Tamkharit,musulman,2018-09-21,2018-09-21,2018,national
+EV029,Magal de Touba,confrérique,2018-10-28,2018-10-28,2018,Touba
+EV030,Maouloud,musulman,2018-11-21,2018-11-21,2018,"Tivaouane, Kaolack (Médina Baye)"
+EV031,Noël,chrétien,2018-12-25,2018-12-25,2018,national
+EV032,Pâques,chrétien,2019-04-21,2019-04-21,2019,national
+EV033,Ramadan,musulman,2019-05-07,2019-06-04,2019,national
+EV034,Korité,musulman,2019-06-05,2019-06-05,2019,national
+EV035,Pèlerinage de Popenguine,chrétien,2019-06-10,2019-06-10,2019,Popenguine (près de Mbour)
+EV036,Tabaski,musulman,2019-08-12,2019-08-12,2019,national
+EV037,Tamkharit,musulman,2019-09-10,2019-09-10,2019,national
+EV038,Magal de Touba,confrérique,2019-10-18,2019-10-18,2019,Touba
+EV039,Maouloud,musulman,2019-11-10,2019-11-10,2019,"Tivaouane, Kaolack (Médina Baye)"
+EV040,Noël,chrétien,2019-12-25,2019-12-25,2019,national
+EV041,Pâques,chrétien,2020-04-12,2020-04-12,2020,national
+EV042,Ramadan,musulman,2020-04-25,2020-05-24,2020,national
+EV043,Korité,musulman,2020-05-25,2020-05-25,2020,national
+EV044,Pèlerinage de Popenguine,chrétien,2020-06-01,2020-06-01,2020,Popenguine (près de Mbour)
+EV045,Tabaski,musulman,2020-08-01,2020-08-01,2020,national
+EV046,Tamkharit,musulman,2020-08-30,2020-08-30,2020,national
+EV047,Magal de Touba,confrérique,2020-10-06,2020-10-06,2020,Touba
+EV048,Maouloud,musulman,2020-10-30,2020-10-30,2020,"Tivaouane, Kaolack (Médina Baye)"
+EV049,Noël,chrétien,2020-12-25,2020-12-25,2020,national
+EV050,Pâques,chrétien,2021-04-04,2021-04-04,2021,national
+EV051,Ramadan,musulman,2021-04-14,2021-05-13,2021,national
+EV052,Korité,musulman,2021-05-14,2021-05-14,2021,national
+EV053,Pèlerinage de Popenguine,chrétien,2021-05-24,2021-05-24,2021,Popenguine (près de Mbour)
+EV054,Tabaski,musulman,2021-07-21,2021-07-21,2021,national
+EV055,Tamkharit,musulman,2021-08-19,2021-08-19,2021,national
+EV056,Magal de Touba,confrérique,2021-09-26,2021-09-26,2021,Touba
+EV057,Maouloud,musulman,2021-10-19,2021-10-19,2021,"Tivaouane, Kaolack (Médina Baye)"
+EV058,Noël,chrétien,2021-12-25,2021-12-25,2021,national
+EV059,Ramadan,musulman,2022-04-03,2022-05-02,2022,national
+EV060,Pâques,chrétien,2022-04-17,2022-04-17,2022,national
+EV061,Korité,musulman,2022-05-03,2022-05-03,2022,national
+EV062,Pèlerinage de Popenguine,chrétien,2022-06-06,2022-06-06,2022,Popenguine (près de Mbour)
+EV063,Tabaski,musulman,2022-07-10,2022-07-10,2022,national
+EV064,Tamkharit,musulman,2022-08-09,2022-08-09,2022,national
+EV065,Magal de Touba,confrérique,2022-09-15,2022-09-15,2022,Touba
+EV066,Maouloud,musulman,2022-10-09,2022-10-09,2022,"Tivaouane, Kaolack (Médina Baye)"
+EV067,Noël,chrétien,2022-12-25,2022-12-25,2022,national
+EV068,Ramadan,musulman,2023-03-24,2023-04-21,2023,national
+EV069,Pâques,chrétien,2023-04-09,2023-04-09,2023,national
+EV070,Korité,musulman,2023-04-22,2023-04-22,2023,national
+EV071,Pèlerinage de Popenguine,chrétien,2023-05-29,2023-05-29,2023,Popenguine (près de Mbour)
+EV072,Tabaski,musulman,2023-06-29,2023-06-29,2023,national
+EV073,Tamkharit,musulman,2023-07-29,2023-07-29,2023,national
+EV074,Magal de Touba,confrérique,2023-09-04,2023-09-04,2023,Touba
+EV075,Maouloud,musulman,2023-09-28,2023-09-28,2023,"Tivaouane, Kaolack (Médina Baye)"
+EV076,Noël,chrétien,2023-12-25,2023-12-25,2023,national
+EV077,Ramadan,musulman,2024-03-12,2024-04-10,2024,national
+EV078,Pâques,chrétien,2024-03-31,2024-03-31,2024,national
+EV079,Korité,musulman,2024-04-11,2024-04-11,2024,national
+EV080,Pèlerinage de Popenguine,chrétien,2024-05-20,2024-05-20,2024,Popenguine (près de Mbour)
+EV081,Tabaski,musulman,2024-06-17,2024-06-17,2024,national
+EV082,Tamkharit,musulman,2024-07-17,2024-07-17,2024,national
+EV083,Magal de Touba,confrérique,2024-08-23,2024-08-23,2024,Touba
+EV084,Maouloud,musulman,2024-09-16,2024-09-16,2024,"Tivaouane, Kaolack (Médina Baye)"
+EV085,Noël,chrétien,2024-12-25,2024-12-25,2024,national
+EV086,Ramadan,musulman,2025-03-02,2025-03-30,2025,national
+EV087,Korité,musulman,2025-03-31,2025-03-31,2025,national
+EV088,Pâques,chrétien,2025-04-20,2025-04-20,2025,national
+EV089,Tabaski,musulman,2025-06-07,2025-06-07,2025,national
+EV090,Pèlerinage de Popenguine,chrétien,2025-06-09,2025-06-09,2025,Popenguine (près de Mbour)
+EV091,Tamkharit,musulman,2025-07-06,2025-07-06,2025,national
+EV092,Magal de Touba,confrérique,2025-08-13,2025-08-13,2025,Touba
+EV093,Maouloud,musulman,2025-09-05,2025-09-05,2025,"Tivaouane, Kaolack (Médina Baye)"
+EV094,Noël,chrétien,2025-12-25,2025-12-25,2025,national
+EV095,Ramadan,musulman,2026-02-19,2026-03-20,2026,national
+EV096,Korité,musulman,2026-03-21,2026-03-21,2026,national
+EV097,Pâques,chrétien,2026-04-05,2026-04-05,2026,national
+EV098,Pèlerinage de Popenguine,chrétien,2026-05-25,2026-05-25,2026,Popenguine (près de Mbour)
+EV099,Tabaski,musulman,2026-05-28,2026-05-28,2026,national
+EV100,Tamkharit,musulman,2026-06-26,2026-06-26,2026,national
+EV101,Magal de Touba,confrérique,2026-08-02,2026-08-02,2026,Touba
+EV102,Maouloud,musulman,2026-08-26,2026-08-26,2026,"Tivaouane, Kaolack (Médina Baye)"
+EV103,Noël,chrétien,2026-12-25,2026-12-25,2026,national

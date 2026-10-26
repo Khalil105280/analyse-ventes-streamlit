@@ -1,0 +1,16 @@
+categorie,unite,famille,prix_2016_fcfa
+riz,kg,alimentaire,300
+huile,litre,alimentaire,1000
+sucre,kg,alimentaire,550
+oignons,kg,alimentaire,300
+dattes,kg,alimentaire,1500
+lait,sachet 500 g,alimentaire,1400
+cereales_mil,kg,alimentaire,350
+arachide_bouye,kg,alimentaire,1200
+volaille,unité,alimentaire,2500
+betail_mouton,tête,bétail,90000
+boissons,bouteille,alimentaire,500
+tissus_habillement,article,non alimentaire,8000
+beaute_coiffure,article,non alimentaire,2500
+jouets_cadeaux,article,non alimentaire,3500
+credit_mobile,recharge,services,1000
